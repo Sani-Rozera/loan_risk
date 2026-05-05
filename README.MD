@@ -56,5 +56,5 @@ LoanRisk-AI/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/LoanRisk-AI.git
+git clone https://github.com/Sani-Rozera/loan_risk
 cd LoanRisk-AI
